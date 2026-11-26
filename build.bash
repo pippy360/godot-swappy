@@ -1,6 +1,6 @@
 #! /bin/bash
 
-SPECIFIC_REVISION="1198bb06b041e2df5d42cc5cf18fac81fcefa03f"
+SPECIFIC_REVISION="539ca191887d8bdf66626d2538806fdfa19836bd"
 
 if [ -z "$ANDROID_HOME" ]; then
     echo "You must set ANDROID_HOME environment variable. See README."
